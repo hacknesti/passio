@@ -1,0 +1,11 @@
+# Passio Password Generator Requirements
+# No external dependencies required - uses only Python standard library
+
+# Python version requirement
+python>=3.6
+
+# Optional: For enhanced performance with large datasets
+# numpy>=1.19.0
+
+# Optional: For progress bars (if added in future versions)
+# tqdm>=4.60.0
